@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">primera</string>
+    <string name="button_send">enviar</string>
+</resources>
